@@ -1,0 +1,18 @@
+{
+  "name": "22scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "creditwins.com ◄ Get Your FREE Credit Score creditwins.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "creditwins.com",
+    "personal loan with 500 credit score",
+    "758 credit score",
+    "credit score 350",
+    "are credit score websites safe"
+  ],
+  "repository": "https://github.com/truelestor/22scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
